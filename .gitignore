@@ -93,6 +93,8 @@ vendor/
 ### Keep public vendors, like ~Bootstrap, Font awesome
 !public/assets/vendor/
 
+## WordPress usual files
+www/
 
 
 ## 🔒️ Secrets
